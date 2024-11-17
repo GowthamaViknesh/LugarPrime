@@ -32,7 +32,7 @@ export const NavbarMenu = [
         link: "/services/hosting-service",
         description: "Top Web Development Services",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
-      },{
+      }, {
         title: "Cloud Management",
         link: "/services/cloud-service",
         description: "Top Web Development Services",
@@ -80,7 +80,7 @@ export const NavbarMenu = [
         link: "/services/digital-marketing/mobile-marketing",
         description: "User-friendly UI/UX design services",
         technologies: ["Figma", "Adobe XD"],
-      },{
+      }, {
         title: "Marketing Analytics",
         link: "/services/digital-marketing/marketing-analytics",
         description: "Top Web Development Services",
@@ -106,7 +106,7 @@ export const NavbarMenu = [
         technologies: ["HTML", "CSS", "JavaScript", "React"],
       },
       {
-        title: "Financail",
+        title: "Financial",
         link: "/services/business-consulting/Financial",
         description: "Top Mobile Development Services",
         technologies: ["Kotlin", "Swift", "React Native"],
